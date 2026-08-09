@@ -193,4 +193,4 @@ This project provided practical experience in:
 - Verilog HDL and functional verification, cross-checked across two independent simulators
 
 ## 👨‍💻 Author
-[Your name here]
+[Gaurav GR]
