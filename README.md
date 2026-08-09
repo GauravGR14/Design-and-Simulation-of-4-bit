@@ -126,7 +126,7 @@ The exact same 10-step sequence applies to every instruction in the program — 
 
 **Console output (final state, unambiguous cross-check):**
 
-![Simulation console output](docs/console.output.png)
+![Simulation console output](docs/console_output.png)
 
 Final state, confirmed identical across both simulators:
 
